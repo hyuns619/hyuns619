@@ -21,7 +21,7 @@
 
 <div align=left>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyuns619.github.io/)](https://hyuns619.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hyuns619.github.io/)](https://hyuns.netlify.app/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hyuns619/)](https://www.instagram.com/hyuns619/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4dallove@gmail.com)](mailto:4dallove@gmail.com)
 </div>
