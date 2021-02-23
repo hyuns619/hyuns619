@@ -4,7 +4,7 @@
 
 </div>
 
-### I Wanna be Developer
+### I Wanna be Frontend SW Engineer
 
 안녕하세요, 전성현입니다.<br>
 훗날의 Front-end 개발자를 꿈꾸고 있습니다.<br>
